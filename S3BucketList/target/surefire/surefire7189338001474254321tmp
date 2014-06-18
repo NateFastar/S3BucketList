@@ -1,0 +1,35 @@
+#surefire
+#Wed Jun 18 10:50:48 MDT 2014
+testClassesDirectory=F\:\\Workspace\\S3BucketList\\target\\test-classes
+classPathUrl.4=C\:\\Users\\nathan\\.m2\\repository\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
+classPathUrl.3=C\:\\Users\\nathan\\.m2\\repository\\com\\amazonaws\\aws-java-sdk\\1.4.3\\aws-java-sdk-1.4.3.jar
+classPathUrl.2=C\:\\Users\\nathan\\.m2\\repository\\javax\\javaee-web-api\\6.0\\javaee-web-api-6.0.jar
+useManifestOnlyJar=true
+classPathUrl.1=F\:\\Workspace\\S3BucketList\\target\\classes
+reportsDirectory=F\:\\Workspace\\S3BucketList\\target\\surefire-reports
+classPathUrl.0=F\:\\Workspace\\S3BucketList\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=F\:\\Workspace\\S3BucketList\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\nathan\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\nathan\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=F\:\\Workspace\\S3BucketList\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.10=C\:\\Users\\nathan\\.m2\\repository\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar
+classPathUrl.9=C\:\\Users\\nathan\\.m2\\repository\\org\\codehaus\\jackson\\jackson-mapper-asl\\1.8.9\\jackson-mapper-asl-1.8.9.jar
+classPathUrl.8=C\:\\Users\\nathan\\.m2\\repository\\org\\codehaus\\jackson\\jackson-core-asl\\1.8.9\\jackson-core-asl-1.8.9.jar
+classPathUrl.7=C\:\\Users\\nathan\\.m2\\repository\\commons-codec\\commons-codec\\1.3\\commons-codec-1.3.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\nathan\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.1\\httpcore-4.1.jar
+classPathUrl.5=C\:\\Users\\nathan\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.1\\httpclient-4.1.jar
